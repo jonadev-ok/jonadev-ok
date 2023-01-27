@@ -8,3 +8,4 @@
          <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="25" width="25"/>
       </a>  
    </p>
+<h3>About me:</h3>
