@@ -9,3 +9,4 @@
       </a>  
    </p>
 <h3>About me:</h3>
+<p>Hola, mi nombre es Jonatan. Soy desarrollador web full stack y un apasionado de todo lo relacionado a la tecnología.</p>
