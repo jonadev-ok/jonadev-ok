@@ -8,5 +8,6 @@
          <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="25" width="25"/>
       </a>  
    </p>
-<h3>About me:</h3>
-<p>Hola, mi nombre es Jonatan. Soy desarrollador web full stack recientemente graduado, con preferencias en el frontend y, un apasopnado en diversos temas relacionados a la tecnología. Actualmente me dedico a crear proyectos web con el fin de aumentar mi visibilidad como desarrollador y aumentar mis oportunidades laborales.</p>
+<h3 align=center>About me: </h3>
+<p>Hola, mi nombre es Jonatan. Soy desarrollador web full stack recientemente graduado, con preferencias en el frontend y, un apasopnado en diversos temas relacionados a la tecnología. Actualmente me dedico a crear proyectos web con el fin de aumentar mi visibilidad como desarrollador y aumentar mis oportunidades laborales.
+</p>
