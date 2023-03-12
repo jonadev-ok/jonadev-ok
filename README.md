@@ -5,7 +5,7 @@
          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Jonatan Villalva LinkedIn Profile" height="25" width="25">
       </a>   
       <a href="mailto:jvillalva.sistemas@gmail.com">
-         <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="25" width="25"/>
+         <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="25" width="25">
       </a>  
    </p>
 <h3 align=center>About me: </h3>
@@ -13,11 +13,11 @@
 </p>
 <h3 align=center>technologies</h3>
 <p align=center>
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" height="25" width="25">
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" height="25" width="25">
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" height="25" width="25">
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react.js" height="25" width="25">
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" height="25" width="25">
-      <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize.js" height="25" width="25">
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgreSQL" height="25" width="25">
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" height="35" width="35">
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" height="35" width="35">
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" height="35" width="35">
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react.js" height="35" width="35">
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" height="35" width="35">
+      <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize.js" height="35" width="35">
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgreSQL" height="35" width="35">
  </p>
