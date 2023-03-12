@@ -1,4 +1,4 @@
-![github (1)](https://user-images.githubusercontent.com/59519580/223274896-70315ce7-abf8-4bad-ad46-3bbf369a28b2.png)
+![Diseño sin título (3)](https://user-images.githubusercontent.com/59519580/224522211-4cc527d0-06f9-41f2-9b49-18be6ca1a3a8.png)
 <h3 align=center>how to contact me:</h3>
 <p align=center>
       <a href="https://www.linkedin.com/in/jonatan-villalva-58676a192/">
