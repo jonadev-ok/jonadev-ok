@@ -18,4 +18,5 @@
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" height="25" width="25">
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react.js" height="25" width="25">
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" height="25" width="25">
+      <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize.js" height="25" width="25">
  </p>
