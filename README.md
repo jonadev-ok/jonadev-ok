@@ -8,7 +8,6 @@ Full stack web developer. A passionate about web development and technology in g
 Here are some of my favorite technologies that I enjoy working with:
 
 - JavaScript
-- React
 - Node.js
 - HTML/CSS
 - Bootstrap
