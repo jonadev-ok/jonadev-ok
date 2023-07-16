@@ -24,6 +24,6 @@ You can find me on various social media platforms. Let's connect and stay in tou
 
 - Twitter: [@jonadev](https://twitter.com/jonadeveloper)
 - LinkedIn: [Jonadev](https://www.linkedin.com/company/jonadev/)
-- GitHub: [Your GitHub Username](https://github.com/your_github_username)
+- GitHub: [jonadev-ok](https://github.com/jonadev-ok)
 - Instagram: [@jona.dev_ok](https://www.instagram.com/jona.dev_ok/)
 - YouTube: [jona-dev](https://www.youtube.com/@jonavillalva8558)
