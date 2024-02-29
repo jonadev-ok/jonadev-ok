@@ -21,6 +21,3 @@
       <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize.js" height="50" width="50">
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgreSQL" height="50" width="50">
  </p>
-
-<!-- LightWidget WIDGET -->
-<iframe src="//lightwidget.com/widgets/60538196bd8552e188141a63932bd11d.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
