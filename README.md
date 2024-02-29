@@ -23,5 +23,4 @@
  </p>
 
 <!-- LightWidget WIDGET -->
-<script src="https://cdn.lightwidget.com/widgets/lightwidget.js"/>
 <iframe src="//lightwidget.com/widgets/60538196bd8552e188141a63932bd11d.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
