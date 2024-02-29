@@ -23,5 +23,5 @@
  </p>
 
  <!-- Instagram -->
-[![Instagram](https://cdn.lightwidget.com/widgets/lightwidget.js)](https://www.instagram.com/jona.dev_ok/)
+[![Instagram](https://cdn.lightwidget.com/widgets/lightwidget.js)] (https://www.instagram.com/jona.dev_ok/)
 
