@@ -21,3 +21,7 @@
       <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize.js" height="50" width="50">
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgreSQL" height="50" width="50">
  </p>
+
+ <!-- Instagram -->
+[![Instagram](https://cdn.lightwidget.com/widgets/lightwidget.js)]([(https://www.instagram.com/jona.dev_ok/])
+
