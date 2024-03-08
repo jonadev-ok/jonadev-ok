@@ -15,6 +15,7 @@
 - 🎓 Bachiller em Cs. sociales con orientación en Ciencias politicas
 - 🎓 Full Stack Web Developer - Bootcamp
 - 🎓 Analista programador - U.A.I (Universidad abierta interamericana) - en curso
+- 💻 Web Developer - Freelance
 
 <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
