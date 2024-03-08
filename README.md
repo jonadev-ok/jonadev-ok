@@ -1,5 +1,4 @@
-![githubportada](https://github.com/jonadeveloper/jonadeveloper/assets/59519580/85c2ce88-4398-4b20-a005-ac5d04e55b31)
-
+![githubport](https://github.com/jonadeveloper/jonadeveloper/assets/59519580/3d170905-58ce-439b-bdb3-3092fbcff29e)
 
 <h2 align="center">Github Metrics </h2><p align="center">
 
