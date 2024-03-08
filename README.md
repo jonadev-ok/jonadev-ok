@@ -10,6 +10,12 @@
 <a href="mailto:jvillalva.sistemas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-000?logo=gmail&style=for-the-badge&logoColor=white" alt="gmail" /></a>
 </div>
 
+## About me:
+
+- 🎓 Bachiller em Cs. sociales con orientación en Ciencias politicas
+- 🎓 Full Stack Web Developer - Bootcamp
+- 🎓 Analista programador - U.A.I (Universidad abierta interamericana) - en curso
+
 <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">   
