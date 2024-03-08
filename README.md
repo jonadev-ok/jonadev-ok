@@ -18,9 +18,12 @@
 - 💻 Web Developer - Freelance.
 - 📷 Content creator.
 
-
 <h2 align="center">Github Metrics </h2><p align="center">
 
+<p align="center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=jonadeveloper&theme=tokyonight_duo&hide_border=true"
+</p>
+  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jonadeveloper&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div>  
