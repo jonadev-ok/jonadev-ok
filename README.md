@@ -17,7 +17,7 @@
 - 🎓 Full Stack Web Developer - Bootcamp. - 2023
 - 🎓 Programmer analyst - U.A.I - in progress.
 - 💻 Web Developer - Freelance.
-- 💻 Curriculum vitae [ver doc](https://github.com/jonadeveloper/jonadeveloper/files/14544371/JonatanVillalva-fullStackWebDeveloper.pdf)
+- 💻 Curriculum vitae [download](https://github.com/jonadeveloper/jonadeveloper/files/14544371/JonatanVillalva-fullStackWebDeveloper.pdf)
 - 📷 Content creator.
 
 <h3 align="left">Skills:</h3>
