@@ -20,7 +20,7 @@
 - 💻 Curriculum vitae [download](https://github.com/jonadeveloper/jonadeveloper/files/14544371/JonatanVillalva-fullStackWebDeveloper.pdf)
 - 📷 Content creator.
 
-<h3 align="left">Skills:</h3>
+## Tech Skills:
 <table width="320px">
         <tr valign="top">
             <td width="80px" align="center">
