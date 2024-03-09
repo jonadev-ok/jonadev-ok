@@ -8,7 +8,6 @@
 <a href="https://twitter.com/jonadeveloper" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-000?&style=for-the-badge&logo=twitter&logoColor=white" /></a>  
 <a href="https://www.linkedin.com/@jonadev1990" target="_blank"><img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 <a href="mailto:jvillalva.sistemas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-000?logo=gmail&style=for-the-badge&logoColor=white" alt="gmail" /></a>
-<a href="https://www.linkedin.com/@jonadev1990" target="_blank"><img src="https://img.shields.io/badge/whatsapp-000?style=for-the-badge&logo=whatsapp&logoColor=white" ></a>
 </div>
 
 ## About me:
