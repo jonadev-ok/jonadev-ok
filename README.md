@@ -17,6 +17,7 @@
 - 🎓 Analista programador - U.A.I (Universidad abierta interamericana) - en curso.
 - 💻 Web Developer - Freelance.
 - 📷 Content creator.
+- 💻 Curriculum vitae [ver doc](https://github.com/jonadeveloper/jonadeveloper/files/14544371/JonatanVillalva-fullStackWebDeveloper.pdf)
 
 <h2 align="center">Github Metrics </h2><p align="center">
 
