@@ -12,8 +12,8 @@
 
 ## About me:
 
-- 🎓 Bachelor in Cs. social with orientation in political science.
-- 🎓 Full Stack Web Developer - Bootcamp.
+- 🎓 Bachelor in Cs. social with orientation in political science. - 2013
+- 🎓 Full Stack Web Developer - Bootcamp. - 2023
 - 🎓 Programmer analyst - U.A.I - in progress.
 - 💻 Web Developer - Freelance.
 - 📷 Content creator.
