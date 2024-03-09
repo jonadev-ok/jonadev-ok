@@ -20,6 +20,40 @@
 - 💻 Curriculum vitae [ver doc](https://github.com/jonadeveloper/jonadeveloper/files/14544371/JonatanVillalva-fullStackWebDeveloper.pdf)
 - 📷 Content creator.
 
+<h3 align="left">Skills:</h3>
+<table width="320px">
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+           <td width="80px" align="center">
+            <span><strong>Javascipt</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+            </td> 
+            <td width="80px" align="center">
+            <span><strong>Typescript</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+            </td>
+            <td width="150px" align="center">
+            <span><strong>React Js</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            </td>
+           <td width="80px" align="center">
+            <span><strong>Node Js</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            </td>
+        </tr>
+</table>
+
 <h2 align="center">Github Metrics </h2><p align="center">
 
 <p align="center">
