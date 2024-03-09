@@ -12,9 +12,9 @@
 
 ## About me:
 
-- 🎓 Bachiller en Cs. sociales con orientación en Ciencias politicas.
+- 🎓 Bachelor in Cs. social with orientation in political science.
 - 🎓 Full Stack Web Developer - Bootcamp.
-- 🎓 Analista programador - U.A.I (Universidad abierta interamericana) - en curso.
+- 🎓 Programmer analyst - U.A.I - in progress.
 - 💻 Web Developer - Freelance.
 - 📷 Content creator.
 - 💻 Curriculum vitae [ver doc](https://github.com/jonadeveloper/jonadeveloper/files/14544371/JonatanVillalva-fullStackWebDeveloper.pdf)
