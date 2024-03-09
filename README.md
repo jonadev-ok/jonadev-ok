@@ -12,7 +12,7 @@
 
 ## About me:
 
-- 🌎 ARG
+- 🌎 ARG - 33 years.
 - 🎓 Bachelor in Cs. social with orientation in political science. - 2013
 - 🎓 Full Stack Web Developer - Bootcamp. - 2023
 - 🎓 Programmer analyst - U.A.I - in progress.
