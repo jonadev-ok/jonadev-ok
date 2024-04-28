@@ -16,7 +16,7 @@
 - 🎓 Full Stack Web Developer - Bootcamp. - 2023.
 - 🎓 Programmer analyst - U.A.I - in progress.
 - 💻 Web Developer - Freelance.
-- 📷 Content creator.
+- 📷 Content creator in spanish.
 
 ## Tech Skills:
 <table width="320px">
