@@ -1,7 +1,7 @@
 ![githubport](https://github.com/jonadeveloper/jonadeveloper/assets/59519580/3d170905-58ce-439b-bdb3-3092fbcff29e) 
 
 <div align="center">
-<a href="https://www.instagram.com/jona.dev_ok/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white"</a> 
+<a href="https://www.instagram.com/jona.dev_ok/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 <a href="https://www.tiktok.com/@jonadev1990" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" ></a>
 <a href="https://www.youtube.com/@jonadeveloper" target="_blank"><img src="https://img.shields.io/badge/-youtube-000?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a>
 <a href="patreon.com/JonaDev256" target="_blank"><img src="https://img.shields.io/badge/-patreon-000?style=for-the-badge&logo=patreon&logoColor=white" style="border-radius: 30px"></a>
