@@ -20,7 +20,7 @@
 - 📷 Content creator in spanish.
 
 ## Tech Skills:
-<table width="320px">
+<table width="320px"> 
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>HTML</strong></span><br>
