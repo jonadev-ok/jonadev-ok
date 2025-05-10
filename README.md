@@ -11,7 +11,7 @@
 <a href="mailto:jvillalva.sistemas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-000?logo=gmail&style=for-the-badge&logoColor=white" alt="gmail" /></a>
 </div>
 
-## About me:
+## Sobre mí:
 
 - 🎓 Bachelor in Cs. social with orientation in political science. - 2013.
 - 🎓 Full Stack Web Developer - Bootcamp. - 2023.
