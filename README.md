@@ -13,11 +13,11 @@
 
 ## Sobre mí:
 
-- 🎓 Bachelor in Cs. social with orientation in political science. - 2013.
+- 🎓 Bachiller en Ciencias sociales con orientación en ciencias politicas. - 2013.
 - 🎓 Full Stack Web Developer - Bootcamp. - 2023.
-- 🎓 Programmer analyst - ISTIC - in progress.
+- 🎓 Analista de sistemas - ISTIC - en curso.
 - 💻 Web Developer - Freelance.
-- 📷 Content creator in spanish.
+- 📷 Creador de contenido en español.
 
 ## Tech Skills:
 <table width="320px"> 
