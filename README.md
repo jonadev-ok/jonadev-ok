@@ -7,7 +7,7 @@
 <a href="https://www.youtube.com/@jonadeveloper" target="_blank"><img src="https://img.shields.io/badge/-youtube-000?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a>
 <a href="patreon.com/JonaDev256" target="_blank"><img src="https://img.shields.io/badge/-patreon-000?style=for-the-badge&logo=patreon&logoColor=white" style="border-radius: 30px"></a>
 <a href="https://www.twitch.tv/jonadev_ok" target="_blank"><img src="https://img.shields.io/badge/-twitch-000?logo=twitch&style=for-the-badge&logoColor=white" alt="gmail" /></a>
-<a href="https://twitter.com/jonadeveloper" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-000?&style=for-the-badge&logo=twitter&logoColor=white" /></a>  
+<a href="https://x.com/jonadev_ok" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-000?&style=for-the-badge&logo=twitter&logoColor=white" /></a>  
 <a href="https://www.linkedin.com/@jonadev1990" target="_blank"><img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 <a href="mailto:jvillalva.sistemas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-000?logo=gmail&style=for-the-badge&logoColor=white" alt="gmail" /></a>
 </div>
