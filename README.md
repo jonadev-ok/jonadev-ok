@@ -43,11 +43,7 @@
             <span><strong>React Js</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
             </td>
-            <td width="150px" align="center">
-            <span><strong>Astro</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg">
-            </td>
-           <td width="80px" align="center">
+            <td width="80px" align="center">
             <span><strong>Node Js</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
             </td>
@@ -58,10 +54,6 @@
             <td width="80px" align="center">
             <span><strong>Git</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
             </td>
         </tr>
 </table>
