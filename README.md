@@ -19,6 +19,7 @@
 - 🎓 Analista de sistemas - ISTIC - en curso.
 - 💻 Web Developer - Freelance.
 - 📷 Creador de contenido en español.
+- 🎤 Charlas y talleres.
 
 ## Tech Skills:
 <table width="1200px"> 
