@@ -18,7 +18,7 @@
 - 🎓 Full Stack Web Developer - Bootcamp. - 2023.
 - 🎓 Analista de sistemas - ISTIC - en curso.
 - 💻 Web Developer - Freelance.
-- 📷 Creador de contenido en español.
+- 📷 Creador de contenido en español sobre desarrollo web y nuevas tecbologias.
 - 🎤 Charlas y talleres en eventos internacionales.
 
 ## Tech Skills:
