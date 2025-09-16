@@ -15,7 +15,7 @@
 ## Sobre mí:
 
 - 🎓 Bachiller en Ciencias sociales con orientación en ciencias politicas. - 2013.
-- 🎓 Full Stack Web Developer - Bootcamp. - 2023.
+- 🎓 Full Stack Web Developer - Bootcamp. graduado en 2023.
 - 🎓 Analista de sistemas - ISTIC - en curso.
 - 💻 Web Developer - Freelance.
 - 📷 Creador de contenido en español sobre desarrollo web y nuevas tecbologias.
