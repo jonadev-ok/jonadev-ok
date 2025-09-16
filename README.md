@@ -14,7 +14,7 @@
 
 ## Sobre mí:
 
-- 🎓 Bachiller en Ciencias sociales con orientación en ciencias politicas. - 2013.
+- 🎓 Bachiller en Ciencias sociales con orientación en ciencias politicas. Graduado en 2013.
 - 🎓 Full Stack Web Developer - Bootcamp. Graduado en 2023.
 - 🎓 Analista de sistemas - ISTIC - en curso.
 - 💻 Web Developer - Freelance.
