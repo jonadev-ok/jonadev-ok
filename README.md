@@ -16,7 +16,7 @@
 
 - 🎓 Bachiller en Ciencias sociales con orientación en ciencias politicas. Graduado en 2013.
 - 🎓 Full Stack Web Developer - Bootcamp. Graduado en 2023.
-- 🎓 Analista de sistemas - ISTIC - en curso.
+- 🎓 Analista de sistemas - ISTIC. en curso.
 - 💻 Web Developer - Freelance.
 - 📷 Creador de contenido en español sobre desarrollo web y nuevas tecbologias.
 - 🎤 Charlas y talleres en eventos internacionales.
