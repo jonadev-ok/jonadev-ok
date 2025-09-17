@@ -63,7 +63,7 @@
         </tr>
 </table>
 
-<h2 align="center">Github Metrics - JonaDev </h2><p align="center">
+<h2 align="center">Github Metrics Jonatan Villalva (Jona-Dev) </h2><p align="center">
 
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonadev-ok&theme=tokyonight_duo&hide_border=true" />
