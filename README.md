@@ -66,7 +66,7 @@
 <h2 align="center">Github Metrics - JonaDev </h2><p align="center">
 
 <p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=jonadev-ok&theme=tokyonight_duo&hide_border=true"
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=jonadev-ok&theme=tokyonight_duo&hide_border=true" />
 </p>
   
 [![JonaDev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jonadev-ok&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
