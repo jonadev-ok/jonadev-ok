@@ -63,6 +63,10 @@
         </tr>
 </table>
 
+<h2 align="center">Conferencias, workshops y charlas tech.</h2>
+
+[![Alt text](https://img.youtube.com/vi/d43vUZzoVqM/0.jpg)](https://www.youtube.com/watch?v=d43vUZzoVqM)
+
 <h2 align="center">Github Metrics Jonatan Villalva (Jona-Dev) </h2><p align="center">
 
 <p align="center">
