@@ -12,8 +12,7 @@
 <a href="mailto:jvillalva.sistemas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-000?logo=gmail&style=for-the-badge&logoColor=white" alt="gmail" /></a>
 </div>
 
-## Tech Skills:
-<table width="1200px"> 
+<table width="1200px" align="center"> 
         <tr align="top">
             <td width="100px" align="center">
             <span><strong>HTML</strong></span><br>
