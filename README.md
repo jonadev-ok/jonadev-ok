@@ -12,15 +12,6 @@
 <a href="mailto:jvillalva.sistemas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-000?logo=gmail&style=for-the-badge&logoColor=white" alt="gmail" /></a>
 </div>
 
-## Sobre mí:
-
-- 🎓 Bachiller en Ciencias sociales con orientación en ciencias politicas. Graduado en 2013.
-- 🎓 Full Stack Web Developer - Bootcamp. Graduado en 2023.
-- 🎓 Analista de sistemas - ISTIC. Formación en curso.
-- 💻 Web Developer - Freelance.
-- 📷 Creador de contenido en español sobre desarrollo web y nuevas tecnologías.
-- 🎤 Charlas y talleres en eventos internacionales.
-
 ## Tech Skills:
 <table width="1200px"> 
         <tr align="top">
@@ -62,6 +53,15 @@
             </td>
         </tr>
 </table>
+
+## Sobre mí:
+
+- 🎓 Bachiller en Ciencias sociales con orientación en ciencias politicas. Graduado en 2013.
+- 🎓 Full Stack Web Developer - Bootcamp. Graduado en 2023.
+- 🎓 Analista de sistemas - ISTIC. Formación en curso.
+- 💻 Web Developer - Freelance.
+- 📷 Creador de contenido en español sobre desarrollo web y nuevas tecnologías.
+- 🎤 Charlas y talleres en eventos internacionales.
 
 <h2 align="center">Github Metrics Jonatan Villalva (Jona-Dev) </h2><p align="center">
 
