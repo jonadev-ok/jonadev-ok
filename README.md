@@ -62,6 +62,8 @@
 - 📷 Creador de contenido en español sobre desarrollo web y nuevas tecnologías.
 - 🎤 Charlas y talleres en eventos internacionales.
 
+## Charlas y talleres:
+
 <h2 align="center">Github Metrics Jonatan Villalva (Jona-Dev) </h2><p align="center">
 
 <p align="center">
