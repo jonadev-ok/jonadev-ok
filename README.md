@@ -62,7 +62,7 @@
 - 📷 Creador de contenido en español sobre desarrollo web y nuevas tecnologías.
 - 🎤 Charlas y talleres en eventos internacionales.
 
-## Charlas y talleres:
+### Charlas y talleres:
 
 - 🎤 <a href="https://www.youtube.com/watch?v=d43vUZzoVqM" target="_blank">Workshop Nerdearla 2025. El futuro de las webs estáticas: Astro.</a>
 
