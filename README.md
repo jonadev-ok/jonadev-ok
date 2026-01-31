@@ -64,6 +64,8 @@
 
 ## Charlas y talleres:
 
+- 🎤 <a href="https://www.youtube.com/watch?v=d43vUZzoVqM" target="_blank">Workshop Nerdearla 2025. El futuro de las webs estáticas: Astro.</a>
+
 <h2 align="center">Github Metrics Jonatan Villalva (Jona-Dev) </h2><p align="center">
 
 <p align="center">
