@@ -64,7 +64,7 @@
 
 ### Recursos:
 
-- 🎤 <a href="https://jonadev.gumroad.com/l/23proyectos?layout=profile" target="_blank">Guía de 23 proyectos - 2024.</a>
+- 📝 <a href="https://jonadev.gumroad.com/l/23proyectos?layout=profile" target="_blank">Guía de 23 proyectos - 2024.</a>
 
 ### Charlas y talleres:
 
