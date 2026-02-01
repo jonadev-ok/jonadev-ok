@@ -59,7 +59,7 @@
 - 🎓 Full Stack Web Developer - Bootcamp. Graduado en 2023.
 - 🎓 Analista de sistemas - ISTIC. Formación en curso.
 - 💻 Web Developer - Freelance.
-- 📷 Creador de contenido en español sobre desarrollo web y nuevas tecnologías.
+- 📷 Creador de contenido en español sobre desarrollo web, nuevas tecnologías y recursos para el aprendizaje.
 - 🎤 Charlas y talleres en eventos internacionales.
 
 ### Charlas y talleres:
