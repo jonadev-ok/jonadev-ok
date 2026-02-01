@@ -31,7 +31,7 @@
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
             </td>
             <td width="100px" align="center">
-            <span><strong>Git</strong></span><br>
+            <span><strong>GIT</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
             </td>
             <td width="100px" align="center">
