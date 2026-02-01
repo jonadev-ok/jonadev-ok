@@ -62,6 +62,10 @@
 - 📷 Creador de contenido en español sobre desarrollo web, nuevas tecnologías y recursos para el aprendizaje.
 - 🎤 Charlas y talleres en eventos internacionales.
 
+### Recursos:
+
+- 🎤 <a href="https://jonadev.gumroad.com/l/23proyectos?layout=profile" target="_blank">Guía de 23 proyectos - 2024.</a>
+
 ### Charlas y talleres:
 
 - 🎤 <a href="https://www.youtube.com/watch?v=d43vUZzoVqM" target="_blank">Workshop Nerdearla 2025. El futuro de las webs estáticas: Astro.</a>
