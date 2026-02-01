@@ -23,11 +23,11 @@
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
            <td width="100px" align="center">
-            <span><strong>Javascipt</strong></span><br>
+            <span><strong>JavaScript</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
             </td> 
             <td width="100px" align="center">
-            <span><strong>Typescript</strong></span><br>
+            <span><strong>TypeScript</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
             </td>
             <td width="100px" align="center">
