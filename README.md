@@ -65,6 +65,8 @@
 ### Recursos:
 
 - 📝 <a href="https://jonadev.gumroad.com/l/23proyectos?layout=profile" target="_blank">Guía de 23 proyectos - 2024.</a>
+- 📝 <a href="https://github.com/jonadev-ok/Markdown-cheat-guide" target="_blank">Guía de trucos markdown - 2026.</a>
+
 
 ### Charlas y talleres:
 
