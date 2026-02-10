@@ -80,6 +80,11 @@
   
 [![JonaDev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jonadev-ok&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jonadev-ok&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=jonadev-ok&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jonadev-ok&layout=compact&theme=radical)
+
 <div>  
   <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jonadev-ok&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="jonadev github stats" /> 
   
