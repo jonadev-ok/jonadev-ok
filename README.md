@@ -76,7 +76,7 @@
 
 <div align="center">
         
-![JonaDev](https://github-readme-stats-fast.vercel.app/api/streak?username=jonadev-ok&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=jonadev-ok&theme=github_dark)
         
 </div>
 
@@ -84,5 +84,5 @@
 [![JonaDev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jonadev-ok&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jonadev-ok&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jonadev-ok&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jonadev-ok&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jonadev-ok&layout=compact&theme=github_dark)
