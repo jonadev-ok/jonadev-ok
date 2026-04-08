@@ -68,8 +68,12 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jonadev-ok&bg_color=030303&color=0091ff&line=ffffff&point=0091ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
+        
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jonadev-ok&show_icons=true&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jonadev-ok&layout=compact&theme=github_dark)
+
+</div>
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=jonadev-ok&repo=astro-blog-template&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=jonadev-ok&repo=Markdown-cheat-guide&theme=github_dark)
