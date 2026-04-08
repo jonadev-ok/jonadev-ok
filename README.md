@@ -74,6 +74,3 @@
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jonadev-ok&layout=compact&theme=github_dark)
 
 </div>
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=jonadev-ok&repo=astro-blog-template&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=jonadev-ok&repo=Markdown-cheat-guide&theme=github_dark)
