@@ -12,46 +12,9 @@
 <a href="mailto:jvillalva.sistemas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-000?logo=gmail&style=for-the-badge&logoColor=white" alt="gmail" /></a>
 </div>
 
-<table width="1200px" align="center"> 
-        <tr align="top">
-            <td width="100px" align="center">
-            <span><strong>HTML</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-            </td>
-            <td width="100px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-            </td>
-           <td width="100px" align="center">
-            <span><strong>JavaScript</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-            </td> 
-            <td width="100px" align="center">
-            <span><strong>TypeScript</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-            </td>
-            <td width="100px" align="center">
-            <span><strong>GIT</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-            </td>
-            <td width="100px" align="center">
-            <span><strong>React Js</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-            </td>
-            <td width="100px" align="center">
-            <span><strong>Astro</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg">
-            </td>
-            <td width="100px" align="center">
-            <span><strong>SQL</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-            </td>
-            <td width="100px" align="center">
-            <span><strong>PostgreSQL</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-            </td>
-        </tr>
-</table>
+<div align="center"> 
+        
+</div>
 
 ## Sobre mí:
 
@@ -72,6 +35,27 @@
 ### Charlas y talleres:
 
 - 🎤 <a href="https://www.youtube.com/watch?v=d43vUZzoVqM" target="_blank">Workshop Nerdearla 2025 - El futuro de las webs estáticas: Astro.</a>
+
+### Habilidades tecnicas 
+
+<div align="center"> 
+        <img src="https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown" alt="markdown" />
+        <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5" alt="html"/>
+        <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css" alt="css" />
+        <img src="https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss" alt="tailwindcss" />
+        <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="javascript" />
+        <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript" alt="typescript" />
+        <img src="https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=node.Js" alt="nodejs" />
+        <img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express" alt="expressjs" />
+        <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" alt="mysql" />
+        <img src="https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql" alt="postrgresql" />
+        <img src="https://img.shields.io/badge/sequelize-black?style=for-the-badge&logo=sequelize" alt="sequelize" />
+        <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react" alt="reactjs" />
+        <img src="https://img.shields.io/badge/svelte-black?style=for-the-badge&logo=svelte" alt="svelte" />
+        <img src="https://img.shields.io/badge/astro-black?style=for-the-badge&logo=astro" alt="astro" />
+        <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git" alt="git" />
+        <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" alt="github" />
+</div>
 
 <h2 align="center">Github Metrics Jonatan Villalva (Jona-Dev) </h2><p align="center">
 
