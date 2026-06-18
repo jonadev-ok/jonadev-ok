@@ -23,7 +23,6 @@
 ### Habilidades tecnicas 
 
 <div align="center"> 
-        <img src="https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown" alt="markdown" />
         <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5" alt="html"/>
         <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css" alt="css" />
         <img src="https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss" alt="tailwindcss" />
