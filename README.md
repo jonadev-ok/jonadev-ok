@@ -1,4 +1,5 @@
-<img width="1280" height="250" alt="JonaDev GitHub" src="https://github.com/user-attachments/assets/1e4c9198-2fd4-4193-a42c-b7c940a64496" />
+<img width="1280" height="250" alt="JonaDev GitHub" src="https://github.com/user-attachments/assets/44223c26-3b06-470e-8ad0-4108b40c2e77" />
+
 
 ## Sobre mí:
 
