@@ -1,4 +1,4 @@
-![githubport](https://github.com/jonadev-ok/jonadev-ok/assets/59519580/3d170905-58ce-439b-bdb3-3092fbcff29e) 
+<img width="1280" height="250" alt="JonaDev GitHub" src="https://github.com/user-attachments/assets/1e4c9198-2fd4-4193-a42c-b7c940a64496" />
 
 ## Sobre mí:
 
