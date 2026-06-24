@@ -41,7 +41,7 @@
         <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" alt="github" />
 </div>
 
-<h2 align="center">Github Metrics Jonatan Villalva (Jona Dev) </h2><p align="center">
+<h2 align="center">Github Metrics Jonatan Villalva - Jona Dev </h2><p align="center">
 
 <div align="center">
         
