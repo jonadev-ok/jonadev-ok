@@ -98,9 +98,9 @@ Guía práctica de Markdown creada para ayudar a desarrolladores a escribir arch
 
 ## 📊 Actividad en GitHub
 
-![Estadísticas de GitHub de Jonatan](https://github-readme-stats.vercel.app/api?username=jonadev-ok&show_icons=true&theme=github_dark&hide_border=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jonadev-ok&layout=compact&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jonadev-ok&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=jonadev-ok&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jonadev-ok&layout=compact&theme=github_dark)
 
 ---
 
