@@ -103,6 +103,11 @@ Guía práctica de Markdown creada para ayudar a desarrolladores a escribir arch
 
 ---
 
+## 📊 Contribuciones en GitHub
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jonadev-ok&bg_color=000000&color=00d5ff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
 ## 📫 Contacto
 
 - Portfolio: https://portfolio-dev-theta-liard.vercel.app/
