@@ -100,7 +100,6 @@ Guía práctica de Markdown creada para ayudar a desarrolladores a escribir arch
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jonadev-ok&show_icons=true&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=jonadev-ok&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jonadev-ok&layout=compact&theme=github_dark)
 
 ---
 
