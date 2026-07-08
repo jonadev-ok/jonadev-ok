@@ -108,10 +108,8 @@ Guía práctica de Markdown creada para ayudar a desarrolladores a escribir arch
 
 ## 📫 Contacto
 
-- Portfolio: https://portfolio-dev-theta-liard.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/jonatan-villalva-fullstack-developer
-- GitHub: https://github.com/jonadev-ok
-
+- [Linkedin](https://www.linkedin.com/in/jonatan-villalva)
+- [Email](mailto:jvillalva.sistemas@gmail.com)
 ---
 
 ## Construyendo aplicaciones web modernas con JavaScript.
