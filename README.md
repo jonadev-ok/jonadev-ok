@@ -1,6 +1,6 @@
 <img width="1280" height="250" alt="JonaDev GitHub" src="https://github.com/user-attachments/assets/44223c26-3b06-470e-8ad0-4108b40c2e77" />
 
-# Hola, soy Jonatan Villalva 👋
+# Hola, soy Jonatan Villalva. 👋
 
 ## Full Stack JavaScript Developer
 
