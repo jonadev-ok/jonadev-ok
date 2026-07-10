@@ -12,7 +12,7 @@ Además, creo contenido educativo sobre desarrollo web a través de **JonaDev**,
 
 ---
 
-## 🚀 Qué hago
+## Qué hago
 
 - Desarrollo aplicaciones web modernas con React, Astro y JavaScript.
 - Creo APIs REST utilizando Node.js y Express.
