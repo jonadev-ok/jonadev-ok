@@ -23,7 +23,7 @@ Además, creo contenido educativo sobre desarrollo web a través de **JonaDev**,
 
 ---
 
-## 🧰 Stack tecnológico
+## Stack tecnológico
 
 ### Frontend
 
