@@ -52,7 +52,7 @@ Además, creo contenido educativo sobre desarrollo web a través de **JonaDev**,
 
 ---
 
-## 🌟 Proyectos destacados
+## Proyectos destacados
 
 ### Devs Learning
 
