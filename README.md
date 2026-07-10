@@ -96,7 +96,7 @@ Guía práctica de Markdown creada para ayudar a desarrolladores a escribir arch
 
 ---
 
-## 📊 Actividad en GitHub
+## Actividad en GitHub
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=jonadev-ok&show_icons=true&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=jonadev-ok&theme=github_dark)
