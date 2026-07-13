@@ -47,9 +47,9 @@ Además, creo contenido educativo sobre desarrollo web a través de **JonaDev**,
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=vsc&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Postman](https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=claude&logoColor=FF6C37)
+![Claude](https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=claude&logoColor=FF6C37)
 
 ---
 
