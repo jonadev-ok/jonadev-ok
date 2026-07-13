@@ -31,8 +31,8 @@ Además, creo contenido educativo sobre desarrollo web a través de **JonaDev**,
 ![Astro](https://img.shields.io/badge/Astro-111827?style=for-the-badge&logo=astro&logoColor=FF5D01)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
+![HTML](https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css&logoColor=1572B6)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
 
 ### Backend
