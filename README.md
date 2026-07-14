@@ -14,9 +14,9 @@ Además, creo contenido educativo sobre desarrollo web a través de **JonaDev**,
 
 ## Qué hago
 
-- Desarrollo aplicaciones web modernas con React, Astro y JavaScript.
+- Desarrollo aplicaciones web modernas.
 - Creo APIs REST utilizando Node.js y Express.
-- Trabajo con bases de datos SQL, Firebase y sistemas de autenticación.
+- Trabajo con bases de datos y sistemas de autenticación.
 - Diseño interfaces responsivas, accesibles y enfocadas en rendimiento.
 - Desarrollo recursos técnicos y contenido educativo para programadores.
 - Exploro el uso de IA aplicada al desarrollo para mejorar productividad y calidad de código.
