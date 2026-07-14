@@ -4,7 +4,7 @@
 
 ## Full Stack JavaScript Developer
 
-Soy desarrollador Full Stack JavaScript de Buenos Aires, Argentina. Me enfoco en crear aplicaciones web modernas, responsivas y escalables utilizando tecnologías del ecosistema JavaScript.
+Soy desarrollador Full Stack JavaScript. Soy de Buenos Aires, Argentina. Me enfoco en crear aplicaciones web modernas, responsivas y escalables utilizando tecnologías del ecosistema JavaScript.
 
 Trabajo principalmente con **React, Node.js, Astro, TypeScript y SQL**, combinando desarrollo frontend, backend, APIs REST, bases de datos, SEO, optimización de rendimiento y pensamiento de producto.
 
