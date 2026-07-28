@@ -113,4 +113,4 @@ Guía práctica de Markdown creada para ayudar a desarrolladores a escribir arch
 - [Email](mailto:jvillalva.sistemas@gmail.com)
 ---
 
-## Construyendo aplicaciones web modernas con JavaScript.
+## Construyendo aplicaciones web modernas y escalables con JavaScript.
