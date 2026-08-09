@@ -15,7 +15,7 @@ Además, creo contenido educativo sobre desarrollo web a través de **JonaDev**,
 ## Qué hago
 
 - Desarrollo aplicaciones web modernas.
-- Creo APIs REST.
+- Creo APIs REST y MCPs.
 - Trabajo con bases de datos y sistemas de autenticación.
 - Diseño interfaces responsivas, accesibles y enfocadas en rendimiento.
 - Desarrollo recursos técnicos y contenido educativo para programadores.
