@@ -55,21 +55,6 @@ Además, creo contenido educativo sobre desarrollo web a través de **JonaDev**,
 
 ## Proyectos destacados
 
-### Devs Learning
-
-Plataforma Full Stack de cursos online desarrollada con React, TypeScript, Node.js, Express, SQL, Firebase y Material UI.
-
-**Características principales:**
-
-- Panel de usuario y administrador.
-- Sistema de autenticación.
-- Gestión de cursos.
-- Operaciones CRUD.
-- Integración entre frontend y backend mediante API REST.
-- Diseño responsivo.
-
----
-
 ### Astro Blog Template
 
 Template moderno y personalizable para blogs, desarrollado con Astro y enfocado en rendimiento, SEO y experiencia de desarrollo.
